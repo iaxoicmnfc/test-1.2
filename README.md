@@ -7,6 +7,7 @@ Add proxy
 
 ## Install
 ```sh
+sudo apt install golang-go
 git clone https://github.com/iaxoicmnfc/test-1.2.git
 cd test-1.2
 go mod init http 
